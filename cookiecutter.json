@@ -1,5 +1,3 @@
 {
-    "project_name": "Cookiecutter Personal",
-    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
-    "project_packages": ["All, Minimal"]
+    "project_name": "Cookiecutter Personal"
 }
